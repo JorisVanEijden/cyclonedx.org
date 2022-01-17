@@ -615,7 +615,7 @@
   {
     "name": "OpenRewrite",
     "publisher": "OpenRewrite Project",
-    "description": "Rewrite is a mass refactoring system, designed to eliminate technical debt across an engineering. The project can generate CycloneDX SBOMs when refactoring",
+    "description": "Rewrite is a mass refactoring system, designed to eliminate technical debt. The project can generate CycloneDX SBOMs when refactoring Java code.",
     "repoUrl": "https://github.com/openrewrite/rewrite",
     "websiteUrl": "https://github.com/openrewrite/rewrite",
     "categories": [
@@ -779,7 +779,7 @@
   {
     "name": "Salus",
     "publisher": "Coinbase",
-    "description": "Salus is a tool for coordinating the execution of security scanners. Salus can generate CycloneDX SBOMs from many language ecosystems.",
+    "description": "Salus is a tool for coordinating the execution of security scanners. Salus can generate CycloneDX SBOMs for Ruby, Node.js, Python, Go, Rust.",
     "repoUrl": "https://github.com/coinbase/salus",
     "websiteUrl": "https://github.com/coinbase/salus",
     "categories": [
